@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre mí
 
-Soy un *desarrollador full stack* con pasión por el desarrollo backend. Me especializo en crear aplicaciones escalables y eficientes, siempre buscando ofrecer código de alta calidad. Aunque estoy comenzando mi carrera profesional, ya he adquirido experiencia sólida trabajando con tecnologías modernas. Siempre estoy dispuesto a aprender, enfrentar nuevos desafíos y participar en proyectos innovadores.
+Soy un *desarrollador full stack* con pasión por el desarrollo backend. Me especializo en crear aplicaciones escalables y eficientes, siempre buscando ofrecer código de alta calidad.H e adquirido experiencia sólida trabajando con tecnologías modernas. Siempre estoy dispuesto a aprender, enfrentar nuevos desafíos y participar en proyectos innovadores.
 
 - 💼 *Especialización*: Desarrollo Backend
 
